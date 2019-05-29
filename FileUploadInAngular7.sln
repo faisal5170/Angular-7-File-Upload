@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUploadInAngular7", "FileUploadInAngular7\FileUploadInAngular7.csproj", "{20EE8359-0AF7-4476-8E57-9E4D88FD9753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20EE8359-0AF7-4476-8E57-9E4D88FD9753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EE8359-0AF7-4476-8E57-9E4D88FD9753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EE8359-0AF7-4476-8E57-9E4D88FD9753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EE8359-0AF7-4476-8E57-9E4D88FD9753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAC6CB9F-CF44-49AD-8FFC-D80E0A1E7691}
+	EndGlobalSection
+EndGlobal
